@@ -20,6 +20,13 @@
 # RStudio files
 .Rproj.user/
 
+# output folders
+output/**/**
+
+# Exported data
+Exported_h5Seurat_files/**/**
+
+
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
