@@ -26,6 +26,8 @@ output/**/**
 # Exported data
 Exported_h5Seurat_files/**/**
 
+# Original datasets
+Data/Datasets/**/**
 
 # produced vignettes
 vignettes/*.html
