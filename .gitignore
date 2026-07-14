@@ -58,3 +58,6 @@ Thumbs.db
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+
+# large data (download from source cited in README)
+data/
